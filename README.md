@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @stranavad
-- 👀 I’m interested in Python Flask, SocketIO, Algorithmization, ReactJS, Webflow
-- 🌱 I’m currently learning Redux and Django
-- 💞️ I’m looking to collaborate on Flask projects
-- 📫 How to reach me https://t.me/stranavadavid
+- I don't really know what to write about myself
 
 <!---
 stranavad/stranavad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
